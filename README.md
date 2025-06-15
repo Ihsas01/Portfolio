@@ -19,5 +19,5 @@ This website showcases my skills, projects, and contact information.
 
 ## 🚀 Getting Started
 To run the project locally:
-1. Clone the repository  
-
+1. Clone the repository  - 
+https://github.com/Ihsas01/Portfolio
